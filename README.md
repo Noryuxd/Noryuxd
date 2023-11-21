@@ -8,9 +8,7 @@
   </ul>
 </div>
 
-<div>
-  <p>I am a junior full stack developer based in Morocco. I'm passionate about sofware engineering and technology. I've worked with tools ranging from PHP / Laravel, JS/TS, Python, C and most web Frontend Technologies (React ...). I love to learn and contribute in any and every possible way.</p>
-</div>
+
 
 
 <!--- snake -->
