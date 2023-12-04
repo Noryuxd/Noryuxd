@@ -19,16 +19,7 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
 
-- 🌱 I’m currently learning **TypeScript**
-- 👨‍💻 All of my projects are available at **SOON**
-- ☁️ I've keen interest in software engineering.
-- 📫 Feel free to reach me out **rabiiababsa10@gmail.com**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
